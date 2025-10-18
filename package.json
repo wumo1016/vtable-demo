@@ -11,9 +11,10 @@
   "dependencies": {
     "@arco-design/web-vue": "2.56.2",
     "@visactor/vchart": "1.12.6",
-    "@visactor/vtable": "^1.20.0",
-    "@visactor/vtable-editors": "1.20.0",
-    "@visactor/vue-vtable": "1.20.0",
+    "@visactor/vtable": "^1.22.0",
+    "@visactor/vtable-editors": "1.22.0",
+    "@visactor/vue-vtable": "1.22.0",
+    "element-plus": "^2.11.5",
     "tslib": "2.8.1",
     "vue": "^3.5.21"
   },
