@@ -1,5 +1,5 @@
 {
-  "name": "vtable-demo12",
+  "name": "vtable-demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,11 +10,10 @@
   },
   "dependencies": {
     "@arco-design/web-vue": "2.56.2",
-    "@visactor/vchart": "1.12.6",
     "@visactor/vtable": "^1.22.4",
+    "@visactor/vue-vtable": "1.22.4",
     "@visactor/vtable-editors": "1.22.4",
     "@visactor/vtable-plugins": "1.22.4",
-    "@visactor/vue-vtable": "1.22.4",
     "element-plus": "^2.11.5",
     "tslib": "2.8.1",
     "vue": "^3.5.21"
